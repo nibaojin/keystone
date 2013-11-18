@@ -6,7 +6,7 @@
 
 # Mainly inspired by http://www.hastexo.com/resources/docs/installing-openstack-essex-20121-ubuntu-1204-precise-pangolin
 # Written by Martin Gerhard Loschwitz / Hastexo
-# Modified by Kai Zhang / kimi.zhangkai@gmail.com
+# Modified by Jovi Ni / nibaojin@gmail.com
 #
 # Support: openstack@lists.launchpad.net
 # License: Apache Software License (ASL) 2.0
